@@ -1,1 +1,1 @@
-0x03-git work area
+0x03-git
